@@ -37,8 +37,8 @@
       </releases>
     </repository>
     <repository>
-      <id>pecia-repository</id>
-      <url>http://pecia.sourceforge.net/repository</url>
+      <id>nexus</id>
+      <url>https://nexus.office.mwaysolutions.com/repository/maven/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
